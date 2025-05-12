@@ -10,4 +10,6 @@ knitr::opts_chunk$set(echo = TRUE)
 ```
 
 ## R Markdown
-# qyestion 1
+# Question 1
+
+# Question 2
