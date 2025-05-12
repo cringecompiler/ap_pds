@@ -1,0 +1,13 @@
+---
+title: "assignment"
+author: "Timofei Iatskov"
+date: "2025-05-12"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## R Markdown
+# qyestion 1
